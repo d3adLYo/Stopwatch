@@ -1,0 +1,17 @@
+.timer-container{
+    width: 80%;
+    height: 6.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: default;
+}
+
+.timer{
+    height: 100%;
+    border: 1px solid red;
+    font-size: 80px;
+    padding: 0 2.1875rem;
+    background-color: black;
+    color: #e7e7e7;
+}
